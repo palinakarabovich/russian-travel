@@ -1,0 +1,21 @@
+.places__article-title{
+    font-size: 72px;
+    line-height: 1.05;
+    color: white;
+    font-weight: 900;
+    margin: 0;
+}
+
+
+@media screen and (max-width: 768px){
+    .places__article-title{
+        font-size: 42px;
+        line-height: 1.09;
+    } 
+ }
+
+ @media screen and (max-width: 670px){
+    .places__article-title{
+        padding: 0 16px;
+    } 
+ }

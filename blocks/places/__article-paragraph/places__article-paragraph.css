@@ -1,0 +1,11 @@
+.places__article-paragraph{
+    font-size: 18px;
+    color: white;
+    line-height: 1.63;
+    margin: 0 0 26px 0;
+    font-weight: 400;
+}
+
+.places__article-paragrap:last-child{
+    margin-bottom: 0;
+}

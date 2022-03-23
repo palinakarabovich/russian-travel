@@ -1,0 +1,5 @@
+@media screen and (max-width: 670px){
+    .places__article-caption{
+        padding: 0 16px;
+    } 
+ }
