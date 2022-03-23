@@ -1,0 +1,11 @@
+.places__article-link{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+@media screen and (max-width: 670px){
+    .places__article-link{
+        padding: 0 16px;
+    } 
+ }

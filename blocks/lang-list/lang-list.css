@@ -1,0 +1,11 @@
+.lang-list{
+    padding-top: 46px;
+    display: flex;
+}
+
+@media screen and (max-width: 320px){
+    .lang-list{
+        padding-top: 30px;
+    } 
+ }
+
